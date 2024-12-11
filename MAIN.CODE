@@ -1,0 +1,3 @@
+uzz = input ("What word do you want to uzzinate?\n>").strip()
+uzz = uzz [:-11]
+print(f"{uzz}uzz")
